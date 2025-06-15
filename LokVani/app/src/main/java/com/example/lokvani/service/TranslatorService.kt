@@ -39,7 +39,7 @@ class TranslatorService : Service(){
 
     fun translate(text: String, onResult: (String) -> Unit, onFailure: () -> Unit) {
         val options = TranslatorOptions.Builder()
-            .setSourceLanguage(TranslateLanguage.ENGLISH)
+            .setSourceLanguage(TranslateLanguage.INDONESIAN)
             .setTargetLanguage(TranslateLanguage.HINDI)
             .build()
         val client = Translation.getClient(options)
