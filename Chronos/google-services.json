@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973826639593",
+    "project_id": "chronos-r",
+    "storage_bucket": "chronos-r.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973826639593:android:9a50c82e1cb5060d15d278",
+        "android_client_info": {
+          "package_name": "com.example.chronos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973826639593-8qo5cuasvraf7qq70tq09lisn567rls7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNaRW-MuUdonCbhOQRSv6VaOBmPJhF734"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973826639593-8qo5cuasvraf7qq70tq09lisn567rls7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
